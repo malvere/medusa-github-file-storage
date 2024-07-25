@@ -1,6 +1,6 @@
 {
   "name": "medusa-github-file-storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Medusa GitHub File Storage Plugin",
   "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
